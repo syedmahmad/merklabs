@@ -1,5 +1,5 @@
 import styles from '../styles/Home.module.css'
-import Counting from '../components/counting/counting'
+import Counting from '../components/counting/Counting'
 import Verification from '../components/verification/Verification'
 import AvoidErrors from '../components/avoid-errors/AvoidErrors'
 import Detailed from '../components/detailed/Detailed'
